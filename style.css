@@ -122,14 +122,14 @@ h3{
     text-decoration: none;
     color: rgb(252, 250, 247);
     font-weight: 500;
-    width: fit-content;
+    width: 55px;
     font-size: 14px;
     text-align: center;
 }
 
 .action a{
     align-self: center;
-    flex-basis: auto;
+    min-width: 55px;
 }
 
 .left-text a:hover, .action a:hover{
@@ -138,26 +138,12 @@ h3{
     border: 2px solid #0f0f0f;
 }
 
-/* button{
-    padding: 5px 15px;
-    width: fit-content;
-    border-radius: 15px;
-    border: 2px solid #0f0f0f;
-    background-color: #0f0f0f;
-} */
-
-/* button:hover{
-    border-color: #0f0f0f;
-    cursor: pointer;
-    background-color:rgb(252, 250, 247);
-
-} */
 
 .quote-container{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     background-color: rgb(216, 216, 216);
     padding: 100px 150px;
     gap: 20px;
@@ -191,6 +177,8 @@ h3{
     justify-content: center;
     justify-content: space-between;
     flex: 1 1 auto;
+    gap: 80px;
+    align-items: center;
 
 }
 

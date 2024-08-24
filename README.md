@@ -1,2 +1,2 @@
 # Steve Jobs by Walter Isaacson page
-live demo: https://armaan-nagra.github.io/Steve-Jobs-Biography-Page/
+Click <a href="https://armaan-nagra.github.io/Steve-Jobs-Biography-Page/">Here </a>for a live demo
